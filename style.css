@@ -1,0 +1,26 @@
+.link{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   gap: 5px;
+    
+}
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color:white
+}
+img{
+    max-width: 100%;
+     align-items: top;
+     
+    
+}
+.imagenes{
+    vertical-align: top;
+    align-items: flex-start;
+   
+}
